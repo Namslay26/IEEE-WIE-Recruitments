@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+*{
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+}
+
+
+.herotext{
+    align-items: center;
+    align-content: center;
+    margin-top: 200px;
+}
+.hero {
+    min-height: 100vh;
+    background-image: url("Group\ 1.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+.hero-tagline{
+    font-weight: 500;
+}
+
+
+.hero-tagline{
+    font-size: 3rem;
+}
+
+.img{
+    margin: 60px;
+}
+#about{
+    background-color: rgb(252, 245, 237);
+}
+#achievements{
+    background-color: rgb(252, 245, 237);
+}
+#history{
+    background-color: rgb(252, 245, 237);
+}
+.form1{
+    background-color: rgb(252, 245, 237);
+}
+input{
+    width: 100%;
+    padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
