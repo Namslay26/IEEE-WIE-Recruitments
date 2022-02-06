@@ -3,6 +3,7 @@
 *{
     font-family: 'Playfair Display', serif;
     font-weight: 500;
+    overflow-x: hidden;
 }
 
 
@@ -47,4 +48,10 @@ input{
     padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
+}
+.footer{
+    width: 100%;
+    background-color: #2A16A9;
+    color: rgb(211, 210, 210);
+    align-items: center;
 }
